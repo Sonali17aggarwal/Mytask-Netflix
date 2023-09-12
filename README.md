@@ -1,4 +1,4 @@
 # MyTask-Netflix
 This is my first task.
 <br>
-Author - Sonali Jindal
+Author - Sonali (student)
